@@ -38,7 +38,7 @@
     padding: 10px;
     border: 0;
     width: 100px;
-    background-color: forestgreen;
+    background-color: bisque;
 
 }
 
@@ -63,6 +63,53 @@
     margin 50px;
 }
 
+
+
 .paragraf {
     color: darkolivegreen;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+}
+
+.my-plan {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 70px;
+    color: darkblue;
+
+
+}
+
+.btn {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 0;
+    width: 100px;
+    background-color: bisque;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.blend {
+    background: url(../images/watch.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+    margin-top: 50px;
+
+}
+
+h1 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 30px;
+    color: beige;
 }
