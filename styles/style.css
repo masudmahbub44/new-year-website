@@ -62,7 +62,7 @@
 .description {
     font-weight: 700;
     font-size: 20px;
-    margin 50px;
+    margin: 50px;
 }
 
 
@@ -125,10 +125,13 @@
     padding: 100px;
     background-color: black;
     color: aliceblue;
+    justify-content: space-around;
 }
 
 .future .section-title {
     text-align: left;
+
+
 }
 
 .future input {
@@ -136,5 +139,7 @@
     border: 0;
     width: 100%;
     padding-left: 30px;
+
+
 
 }
